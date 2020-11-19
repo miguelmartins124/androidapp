@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">a21803222</string>
+    <string name="cilidrada">Cilidrada</string>
+    <string name="emiss_es_co2">Emissões CO2</string>
+    <string name="calcular">Calcular IUC</string>
+    <string name="button1" value="33,10">até 1.2500</string>
+    <string name="button2" value="66,50">mais de 1.250 até 1.750</string>
+    <string name="button3" value="133,01">mais de 1.750 até 2.500 </string>
+    <string name="button4" value="455,30" >mais de 2.500 </string>
+    <string name="button5"> até 120 </string>
+    <string name="button6"> mais de 120 até 180  </string>
+    <string name="button7">mais de 180 até 250  </string>
+    <string name="button8"> mais de 250  </string>
+    <string name="button9">IUC</string>
+
+</resources>
